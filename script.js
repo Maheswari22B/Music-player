@@ -29,7 +29,7 @@ const music_list = [
     },
     {
         img : 'img/img2.jpg',
-        name : 'Strawberries and Cigarrettes',
+        name : 'Strawberries and Cigarettes',
         artist : 'Troye Sivan',
         music : 'music/song2.mp3'
     },
